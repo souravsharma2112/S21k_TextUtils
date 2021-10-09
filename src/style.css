@@ -1,11 +1,72 @@
 @import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@400;500;600;700;800&family=Pacifico&display=swap');
 
 body{
-    background-color: azure;
-    background-color: rgb(3, 1, 31);
-    background-color: #050410;
+    background-color: rgb(185, 255, 255);
     font-family: 'Baloo Bhai 2';
-    color:white;
+}
+/* ================== Utility ================= */
+
+.flex{
+    display: flex;
+    justify-content: space-between !important;
+    align-items: center;
+}
+.disable{
+    display: none;
+}
+/* ================== DarkBtn box Theme ================= */
+
+.bi-brightness-high-fill{
+    color: hsla(54, 100%, 50%, 1) ;
+    font-size: 1.4rem;
+    padding: 2px 6px;
+}
+.bi-moon-stars-fill{
+    color: rgb(185, 255, 255) ;
+    font-size: 1.4rem;
+    padding: 2px 6px;
+}
+.theme-button{
+    padding: 0 !important;
+}
+/* ================= TextArea ========== */
+#myTextArea{
+    font-size: 1.4rem;
+}
+.navbar-brand{
+    font-size: 1.5rem;
+    font-family: "Pacifico";
+    font-weight: 600;
+}
+
+/* ================== Color box Theme ================= */
+.right-side-theme-box{
+    padding:1rem;
+    margin-right: 1.5rem;
+    border-radius: 50%;
+    background:linear-gradient(180deg,red,blue,green,yellow,purple) ;
+    cursor: pointer;
+}
+/* ================== Accordian box Theme ================= */
+
+.hidden{
+    display: none;
+}
+.visible{
+    display: block;
+}
+
+.accordion{
+    border: 2px solid transparent;
+    background-color: White ;
+}
+.accordion-dark{
+    background-color: #050410;
+}
+/* ================== Text Area box Theme ================= */
+.textarea-dark{
+    background-color: #050410 !important;
+    color: white !important;
 }
 
 /* ====================button===================== */
@@ -14,7 +75,11 @@ body{
     color: white !important;
     font-weight: 600;
     font-size: 1.1rem;
-    margin: 21px 12px 21px 0px;
+    margin: 5px 0px;
+    margin-right: 21px ;
+    width: auto;
+    /* width: 110px; */
+    /* padding: 8px 0px !important; */
 }
 
 .button1{
@@ -32,7 +97,7 @@ body{
     background-color: hsla(360, 100%, 51%, 1);
 }
 .button5{
-    background-color: hsla(0, 0%, 0%, 1);
+    background-color: rgb(3, 160, 180);
 }
 .button6{
     background-color: hsla(251, 100%, 50%, 1);
@@ -53,31 +118,51 @@ body{
     background-color: hsla(360, 100%, 40%, 1);
 }
 .button5:hover{
-    background-color: hsla(0, 0%,6%, 1);
+    background-color: rgb(3, 160, 180);
 }
 .button6:hover{
     background-color: hsla(251, 100%, 40%, 1);
 
 }
-.textarea-dark{
-    background: #525252 !important;
-    color: white !important;
-}
-.previewpara{
-    padding: 1rem;
-    border-radius: 12px;
-    border: 2px solid transparent ;
-    background: #525252 !important;
-    color: white !important;
+
+.button-box{
+    display: flex;
+    flex-wrap: wrap;
+    margin:21px 0px;
+    margin-bottom: 41px;
+    align-items: center;
+    /* justify-content: space-between; */
 }
 
-@media screen and (max-width:400px) {
+
+
+@media screen and (max-width: 400px) {
     .button{
-       margin: 0px  !important;
-       margin-top: 21px !important;
+        /* border: 2px solid transparent !important;
+        color: white !important;
+        font-weight: 600;
+        font-size: 1.1rem;*/
+        /* 
+         */
+        
+        width: 110px !important;
+        /* padding: 8px 0px !important; */
     }
-    .button2{
-        margin:0px 8px !important;
-        margin-top: 21px !important;
+    .button-box{
+        margin:21px 0px !important;
+        margin-bottom: 41px;
+        justify-content: space-between;
+    }
+}
+@media screen and (max-width: 500px) {
+    .button{
+        margin-right: 3px ;
+        width: 110px !important;
+        padding: 8px 0px !important;
+    }
+    .button-box{
+        margin:21px 0px !important;
+        margin-bottom: 41px;
+        justify-content: space-between;
     }
 }
