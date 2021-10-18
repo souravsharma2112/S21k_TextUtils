@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/S21k_TextUtils/static/css/main.94cf0e78.chunk.css",
-    "main.js": "/S21k_TextUtils/static/js/main.865a5769.chunk.js",
-    "main.js.map": "/S21k_TextUtils/static/js/main.865a5769.chunk.js.map",
-    "runtime-main.js": "/S21k_TextUtils/static/js/runtime-main.077bbca9.js",
-    "runtime-main.js.map": "/S21k_TextUtils/static/js/runtime-main.077bbca9.js.map",
-    "static/js/2.ae186eba.chunk.js": "/S21k_TextUtils/static/js/2.ae186eba.chunk.js",
-    "static/js/2.ae186eba.chunk.js.map": "/S21k_TextUtils/static/js/2.ae186eba.chunk.js.map",
-    "static/js/3.c11067a7.chunk.js": "/S21k_TextUtils/static/js/3.c11067a7.chunk.js",
-    "static/js/3.c11067a7.chunk.js.map": "/S21k_TextUtils/static/js/3.c11067a7.chunk.js.map",
-    "index.html": "/S21k_TextUtils/index.html",
-    "static/css/main.94cf0e78.chunk.css.map": "/S21k_TextUtils/static/css/main.94cf0e78.chunk.css.map",
-    "static/js/2.ae186eba.chunk.js.LICENSE.txt": "/S21k_TextUtils/static/js/2.ae186eba.chunk.js.LICENSE.txt"
+    "main.css": "/souravsharma2112/S21k-News.git/static/css/main.c706a89d.chunk.css",
+    "main.js": "/souravsharma2112/S21k-News.git/static/js/main.dd68db5e.chunk.js",
+    "main.js.map": "/souravsharma2112/S21k-News.git/static/js/main.dd68db5e.chunk.js.map",
+    "runtime-main.js": "/souravsharma2112/S21k-News.git/static/js/runtime-main.b557f302.js",
+    "runtime-main.js.map": "/souravsharma2112/S21k-News.git/static/js/runtime-main.b557f302.js.map",
+    "static/js/2.2a8333e8.chunk.js": "/souravsharma2112/S21k-News.git/static/js/2.2a8333e8.chunk.js",
+    "static/js/2.2a8333e8.chunk.js.map": "/souravsharma2112/S21k-News.git/static/js/2.2a8333e8.chunk.js.map",
+    "static/js/3.017ca383.chunk.js": "/souravsharma2112/S21k-News.git/static/js/3.017ca383.chunk.js",
+    "static/js/3.017ca383.chunk.js.map": "/souravsharma2112/S21k-News.git/static/js/3.017ca383.chunk.js.map",
+    "index.html": "/souravsharma2112/S21k-News.git/index.html",
+    "static/css/main.c706a89d.chunk.css.map": "/souravsharma2112/S21k-News.git/static/css/main.c706a89d.chunk.css.map",
+    "static/js/2.2a8333e8.chunk.js.LICENSE.txt": "/souravsharma2112/S21k-News.git/static/js/2.2a8333e8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.077bbca9.js",
-    "static/js/2.ae186eba.chunk.js",
-    "static/css/main.94cf0e78.chunk.css",
-    "static/js/main.865a5769.chunk.js"
+    "static/js/runtime-main.b557f302.js",
+    "static/js/2.2a8333e8.chunk.js",
+    "static/css/main.c706a89d.chunk.css",
+    "static/js/main.dd68db5e.chunk.js"
   ]
 }
