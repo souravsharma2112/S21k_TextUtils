@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/souravsharma2112/S21k-News.git/static/css/main.c706a89d.chunk.css",
-    "main.js": "/souravsharma2112/S21k-News.git/static/js/main.46a847ee.chunk.js",
-    "main.js.map": "/souravsharma2112/S21k-News.git/static/js/main.46a847ee.chunk.js.map",
-    "runtime-main.js": "/souravsharma2112/S21k-News.git/static/js/runtime-main.2b1f3c90.js",
-    "runtime-main.js.map": "/souravsharma2112/S21k-News.git/static/js/runtime-main.2b1f3c90.js.map",
-    "static/js/2.0fde6301.chunk.js": "/souravsharma2112/S21k-News.git/static/js/2.0fde6301.chunk.js",
-    "static/js/2.0fde6301.chunk.js.map": "/souravsharma2112/S21k-News.git/static/js/2.0fde6301.chunk.js.map",
-    "static/js/3.371e2159.chunk.js": "/souravsharma2112/S21k-News.git/static/js/3.371e2159.chunk.js",
-    "static/js/3.371e2159.chunk.js.map": "/souravsharma2112/S21k-News.git/static/js/3.371e2159.chunk.js.map",
-    "index.html": "/souravsharma2112/S21k-News.git/index.html",
-    "static/css/main.c706a89d.chunk.css.map": "/souravsharma2112/S21k-News.git/static/css/main.c706a89d.chunk.css.map",
-    "static/js/2.0fde6301.chunk.js.LICENSE.txt": "/souravsharma2112/S21k-News.git/static/js/2.0fde6301.chunk.js.LICENSE.txt"
+    "main.css": "/souravsharma2112/S21k-News/static/css/main.c706a89d.chunk.css",
+    "main.js": "/souravsharma2112/S21k-News/static/js/main.46a847ee.chunk.js",
+    "main.js.map": "/souravsharma2112/S21k-News/static/js/main.46a847ee.chunk.js.map",
+    "runtime-main.js": "/souravsharma2112/S21k-News/static/js/runtime-main.9f9d1ccd.js",
+    "runtime-main.js.map": "/souravsharma2112/S21k-News/static/js/runtime-main.9f9d1ccd.js.map",
+    "static/js/2.0fde6301.chunk.js": "/souravsharma2112/S21k-News/static/js/2.0fde6301.chunk.js",
+    "static/js/2.0fde6301.chunk.js.map": "/souravsharma2112/S21k-News/static/js/2.0fde6301.chunk.js.map",
+    "static/js/3.371e2159.chunk.js": "/souravsharma2112/S21k-News/static/js/3.371e2159.chunk.js",
+    "static/js/3.371e2159.chunk.js.map": "/souravsharma2112/S21k-News/static/js/3.371e2159.chunk.js.map",
+    "index.html": "/souravsharma2112/S21k-News/index.html",
+    "static/css/main.c706a89d.chunk.css.map": "/souravsharma2112/S21k-News/static/css/main.c706a89d.chunk.css.map",
+    "static/js/2.0fde6301.chunk.js.LICENSE.txt": "/souravsharma2112/S21k-News/static/js/2.0fde6301.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2b1f3c90.js",
+    "static/js/runtime-main.9f9d1ccd.js",
     "static/js/2.0fde6301.chunk.js",
     "static/css/main.c706a89d.chunk.css",
     "static/js/main.46a847ee.chunk.js"
